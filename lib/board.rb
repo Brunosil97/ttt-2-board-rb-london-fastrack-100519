@@ -1,2 +1,2 @@
-# Define the variable board below."
-"board" = ticTac
+# Define the variable board belo
+tictac = "board"
